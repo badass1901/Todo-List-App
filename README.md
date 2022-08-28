@@ -6,7 +6,7 @@ Todo List App is made using pure Vue.js Framework in additon of Sass styling.
 
 ## Demo
 
-https://-vue.netlify.app/
+https://todo-list0-vue.netlify.app/
 
 
 ## Features
