@@ -31,7 +31,9 @@ https://todo-list0-vue.netlify.app/
 
 
 ## Screenshots
-![App Screenshot](./image.png)
+![App Screenshot](./image1.png)
+
+![App Screenshot](./image2.png)
 
 
 
